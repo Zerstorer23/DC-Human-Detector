@@ -1,0 +1,15 @@
+﻿dum,my
+gallID,comic_new1
+major,true
+maxPage,3
+increment,1
+cores,3
+filename,comic_new1
+maxPredict,4
+yudong,false
+emergency,true
+botName,벽갤봇
+censor,1
+doubleOonlyMode,true
+skip,false
+initFireFox,false
