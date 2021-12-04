@@ -1,0 +1,17 @@
+PARSING,OPTION
+gallID,kancolle
+major,true
+maxPage,3
+increment,1
+cores,3
+filename,kancolle
+atLeast,5
+BROWSER,OPTION
+maxPredict,4
+yudong,false
+emergency,true
+skip,false
+botName,사라토가
+doubleOonlyMode,true
+censor,2
+webmode,false
